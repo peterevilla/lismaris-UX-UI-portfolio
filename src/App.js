@@ -14,8 +14,9 @@ function App() {
 
   return (
     <div className="h-screen font-gothic text-myblack bg-mywhite">
-      <NavBar/>
+      
       <section className="h-screen" id="home">
+      <NavBar/>
         <Home/>
       </section>
      

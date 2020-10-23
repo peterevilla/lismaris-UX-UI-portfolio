@@ -3,8 +3,8 @@ import React from "react";
 
 const Project1 = () => {
   return (
-    <div className="h-screen">
-      Project1
+    <div className="h-screen bg-myblack">
+      <p className="text-mywhite">Project1</p>
     </div>
   );
 };
