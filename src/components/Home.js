@@ -31,7 +31,7 @@ const Home = () => {
         <Fade left>
           {" "}
           <Fade left when={!isScrolled}>
-           <div className="flex flex-col lg:flex-row"><img className="self-start" src={hand_icon} /><h3 className=" lg:text-2xl text-lg text-gray-700">I am a UX/UI designer and Industrial Engineer based in Chicago, USA.<br/>I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday.</h3></div>
+           <div className="flex flex-col lg:flex-row"><img className="self-start" src={hand_icon} /><h3 className=" lg:text-2xl text-lg text-gray-700 text-justify">I am a UX/UI designer and Industrial Engineer based in Chicago, USA.<br/>I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday.</h3></div>
           </Fade>{" "}
         </Fade>
       </div>
