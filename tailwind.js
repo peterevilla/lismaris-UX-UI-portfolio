@@ -13,6 +13,8 @@ module.exports = {
       transparent: 'transparent',
 
       black: '#37352F',
+      myblack: '#2D2D2D',
+      mywhite: '#FDF7F7',
       white: '#fff',
 
       gray: {
@@ -223,7 +225,8 @@ module.exports = {
       default: '1',
     },
     fontFamily: {
-      montserrat: ['Montserrat']
+      gothic: ["'Gothic A1'", 'sans-serif'],
+      volkhov : ["'Volkhov'", 'serif']
     },
     fontSize: {
       xs: '0.75rem',
@@ -234,8 +237,8 @@ module.exports = {
       '2xl': '1.5rem',
       '3xl': '1.875rem',
       '4xl': '2.25rem',
-      '5xl': '3rem',
-      '6xl': '4rem',
+      '5xl': '4rem',
+      '6xl': '8rem',
     },
     fontWeight: {
       hairline: '100',

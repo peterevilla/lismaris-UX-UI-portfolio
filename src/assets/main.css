@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Volkhov&display=swap');
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
@@ -679,6 +681,14 @@ video {
   background-color: #37352F;
 }
 
+.bg-myblack{
+  background-color: #2D2D2D;
+}
+
+.bg-mywhite{
+  background-color: #FDF7F7;
+}
+
 .bg-white{
   background-color: #fff;
 }
@@ -1051,6 +1061,14 @@ video {
   background-color: #37352F;
 }
 
+.hover\:bg-myblack:hover{
+  background-color: #2D2D2D;
+}
+
+.hover\:bg-mywhite:hover{
+  background-color: #FDF7F7;
+}
+
 .hover\:bg-white:hover{
   background-color: #fff;
 }
@@ -1421,6 +1439,14 @@ video {
 
 .focus\:bg-black:focus{
   background-color: #37352F;
+}
+
+.focus\:bg-myblack:focus{
+  background-color: #2D2D2D;
+}
+
+.focus\:bg-mywhite:focus{
+  background-color: #FDF7F7;
 }
 
 .focus\:bg-white:focus{
@@ -1875,6 +1901,14 @@ video {
   border-color: #37352F;
 }
 
+.border-myblack{
+  border-color: #2D2D2D;
+}
+
+.border-mywhite{
+  border-color: #FDF7F7;
+}
+
 .border-white{
   border-color: #fff;
 }
@@ -2247,6 +2281,14 @@ video {
   border-color: #37352F;
 }
 
+.hover\:border-myblack:hover{
+  border-color: #2D2D2D;
+}
+
+.hover\:border-mywhite:hover{
+  border-color: #FDF7F7;
+}
+
 .hover\:border-white:hover{
   border-color: #fff;
 }
@@ -2617,6 +2659,14 @@ video {
 
 .focus\:border-black:focus{
   border-color: #37352F;
+}
+
+.focus\:border-myblack:focus{
+  border-color: #2D2D2D;
+}
+
+.focus\:border-mywhite:focus{
+  border-color: #FDF7F7;
 }
 
 .focus\:border-white:focus{
@@ -3677,8 +3727,12 @@ video {
   clear: both;
 }
 
-.font-montserrat{
-  font-family: Montserrat;
+.font-gothic{
+  font-family: 'Gothic A1', sans-serif;
+}
+
+.font-volkhov{
+  font-family: 'Volkhov', serif;
 }
 
 .font-hairline{
@@ -5943,6 +5997,14 @@ video {
   color: #37352F;
 }
 
+.placeholder-myblack::placeholder{
+  color: #2D2D2D;
+}
+
+.placeholder-mywhite::placeholder{
+  color: #FDF7F7;
+}
+
 .placeholder-white::placeholder{
   color: #fff;
 }
@@ -6313,6 +6375,14 @@ video {
 
 .focus\:placeholder-black:focus::placeholder{
   color: #37352F;
+}
+
+.focus\:placeholder-myblack:focus::placeholder{
+  color: #2D2D2D;
+}
+
+.focus\:placeholder-mywhite:focus::placeholder{
+  color: #FDF7F7;
 }
 
 .focus\:placeholder-white:focus::placeholder{
@@ -6961,6 +7031,14 @@ video {
   color: #37352F;
 }
 
+.text-myblack{
+  color: #2D2D2D;
+}
+
+.text-mywhite{
+  color: #FDF7F7;
+}
+
 .text-white{
   color: #fff;
 }
@@ -7333,6 +7411,14 @@ video {
   color: #37352F;
 }
 
+.hover\:text-myblack:hover{
+  color: #2D2D2D;
+}
+
+.hover\:text-mywhite:hover{
+  color: #FDF7F7;
+}
+
 .hover\:text-white:hover{
   color: #fff;
 }
@@ -7703,6 +7789,14 @@ video {
 
 .focus\:text-black:focus{
   color: #37352F;
+}
+
+.focus\:text-myblack:focus{
+  color: #2D2D2D;
+}
+
+.focus\:text-mywhite:focus{
+  color: #FDF7F7;
 }
 
 .focus\:text-white:focus{
@@ -8102,11 +8196,11 @@ video {
 }
 
 .text-5xl{
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .text-6xl{
-  font-size: 4rem;
+  font-size: 8rem;
 }
 
 .italic{
@@ -10976,6 +11070,14 @@ video {
     background-color: #37352F;
   }
 
+  .sm\:bg-myblack{
+    background-color: #2D2D2D;
+  }
+
+  .sm\:bg-mywhite{
+    background-color: #FDF7F7;
+  }
+
   .sm\:bg-white{
     background-color: #fff;
   }
@@ -11348,6 +11450,14 @@ video {
     background-color: #37352F;
   }
 
+  .sm\:hover\:bg-myblack:hover{
+    background-color: #2D2D2D;
+  }
+
+  .sm\:hover\:bg-mywhite:hover{
+    background-color: #FDF7F7;
+  }
+
   .sm\:hover\:bg-white:hover{
     background-color: #fff;
   }
@@ -11718,6 +11828,14 @@ video {
 
   .sm\:focus\:bg-black:focus{
     background-color: #37352F;
+  }
+
+  .sm\:focus\:bg-myblack:focus{
+    background-color: #2D2D2D;
+  }
+
+  .sm\:focus\:bg-mywhite:focus{
+    background-color: #FDF7F7;
   }
 
   .sm\:focus\:bg-white:focus{
@@ -12172,6 +12290,14 @@ video {
     border-color: #37352F;
   }
 
+  .sm\:border-myblack{
+    border-color: #2D2D2D;
+  }
+
+  .sm\:border-mywhite{
+    border-color: #FDF7F7;
+  }
+
   .sm\:border-white{
     border-color: #fff;
   }
@@ -12544,6 +12670,14 @@ video {
     border-color: #37352F;
   }
 
+  .sm\:hover\:border-myblack:hover{
+    border-color: #2D2D2D;
+  }
+
+  .sm\:hover\:border-mywhite:hover{
+    border-color: #FDF7F7;
+  }
+
   .sm\:hover\:border-white:hover{
     border-color: #fff;
   }
@@ -12914,6 +13048,14 @@ video {
 
   .sm\:focus\:border-black:focus{
     border-color: #37352F;
+  }
+
+  .sm\:focus\:border-myblack:focus{
+    border-color: #2D2D2D;
+  }
+
+  .sm\:focus\:border-mywhite:focus{
+    border-color: #FDF7F7;
   }
 
   .sm\:focus\:border-white:focus{
@@ -13974,8 +14116,12 @@ video {
     clear: both;
   }
 
-  .sm\:font-montserrat{
-    font-family: Montserrat;
+  .sm\:font-gothic{
+    font-family: 'Gothic A1', sans-serif;
+  }
+
+  .sm\:font-volkhov{
+    font-family: 'Volkhov', serif;
   }
 
   .sm\:font-hairline{
@@ -16240,6 +16386,14 @@ video {
     color: #37352F;
   }
 
+  .sm\:placeholder-myblack::placeholder{
+    color: #2D2D2D;
+  }
+
+  .sm\:placeholder-mywhite::placeholder{
+    color: #FDF7F7;
+  }
+
   .sm\:placeholder-white::placeholder{
     color: #fff;
   }
@@ -16610,6 +16764,14 @@ video {
 
   .sm\:focus\:placeholder-black:focus::placeholder{
     color: #37352F;
+  }
+
+  .sm\:focus\:placeholder-myblack:focus::placeholder{
+    color: #2D2D2D;
+  }
+
+  .sm\:focus\:placeholder-mywhite:focus::placeholder{
+    color: #FDF7F7;
   }
 
   .sm\:focus\:placeholder-white:focus::placeholder{
@@ -17258,6 +17420,14 @@ video {
     color: #37352F;
   }
 
+  .sm\:text-myblack{
+    color: #2D2D2D;
+  }
+
+  .sm\:text-mywhite{
+    color: #FDF7F7;
+  }
+
   .sm\:text-white{
     color: #fff;
   }
@@ -17630,6 +17800,14 @@ video {
     color: #37352F;
   }
 
+  .sm\:hover\:text-myblack:hover{
+    color: #2D2D2D;
+  }
+
+  .sm\:hover\:text-mywhite:hover{
+    color: #FDF7F7;
+  }
+
   .sm\:hover\:text-white:hover{
     color: #fff;
   }
@@ -18000,6 +18178,14 @@ video {
 
   .sm\:focus\:text-black:focus{
     color: #37352F;
+  }
+
+  .sm\:focus\:text-myblack:focus{
+    color: #2D2D2D;
+  }
+
+  .sm\:focus\:text-mywhite:focus{
+    color: #FDF7F7;
   }
 
   .sm\:focus\:text-white:focus{
@@ -18399,11 +18585,11 @@ video {
   }
 
   .sm\:text-5xl{
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .sm\:text-6xl{
-    font-size: 4rem;
+    font-size: 8rem;
   }
 
   .sm\:italic{
@@ -21274,6 +21460,14 @@ video {
     background-color: #37352F;
   }
 
+  .md\:bg-myblack{
+    background-color: #2D2D2D;
+  }
+
+  .md\:bg-mywhite{
+    background-color: #FDF7F7;
+  }
+
   .md\:bg-white{
     background-color: #fff;
   }
@@ -21646,6 +21840,14 @@ video {
     background-color: #37352F;
   }
 
+  .md\:hover\:bg-myblack:hover{
+    background-color: #2D2D2D;
+  }
+
+  .md\:hover\:bg-mywhite:hover{
+    background-color: #FDF7F7;
+  }
+
   .md\:hover\:bg-white:hover{
     background-color: #fff;
   }
@@ -22016,6 +22218,14 @@ video {
 
   .md\:focus\:bg-black:focus{
     background-color: #37352F;
+  }
+
+  .md\:focus\:bg-myblack:focus{
+    background-color: #2D2D2D;
+  }
+
+  .md\:focus\:bg-mywhite:focus{
+    background-color: #FDF7F7;
   }
 
   .md\:focus\:bg-white:focus{
@@ -22470,6 +22680,14 @@ video {
     border-color: #37352F;
   }
 
+  .md\:border-myblack{
+    border-color: #2D2D2D;
+  }
+
+  .md\:border-mywhite{
+    border-color: #FDF7F7;
+  }
+
   .md\:border-white{
     border-color: #fff;
   }
@@ -22842,6 +23060,14 @@ video {
     border-color: #37352F;
   }
 
+  .md\:hover\:border-myblack:hover{
+    border-color: #2D2D2D;
+  }
+
+  .md\:hover\:border-mywhite:hover{
+    border-color: #FDF7F7;
+  }
+
   .md\:hover\:border-white:hover{
     border-color: #fff;
   }
@@ -23212,6 +23438,14 @@ video {
 
   .md\:focus\:border-black:focus{
     border-color: #37352F;
+  }
+
+  .md\:focus\:border-myblack:focus{
+    border-color: #2D2D2D;
+  }
+
+  .md\:focus\:border-mywhite:focus{
+    border-color: #FDF7F7;
   }
 
   .md\:focus\:border-white:focus{
@@ -24272,8 +24506,12 @@ video {
     clear: both;
   }
 
-  .md\:font-montserrat{
-    font-family: Montserrat;
+  .md\:font-gothic{
+    font-family: 'Gothic A1', sans-serif;
+  }
+
+  .md\:font-volkhov{
+    font-family: 'Volkhov', serif;
   }
 
   .md\:font-hairline{
@@ -26538,6 +26776,14 @@ video {
     color: #37352F;
   }
 
+  .md\:placeholder-myblack::placeholder{
+    color: #2D2D2D;
+  }
+
+  .md\:placeholder-mywhite::placeholder{
+    color: #FDF7F7;
+  }
+
   .md\:placeholder-white::placeholder{
     color: #fff;
   }
@@ -26908,6 +27154,14 @@ video {
 
   .md\:focus\:placeholder-black:focus::placeholder{
     color: #37352F;
+  }
+
+  .md\:focus\:placeholder-myblack:focus::placeholder{
+    color: #2D2D2D;
+  }
+
+  .md\:focus\:placeholder-mywhite:focus::placeholder{
+    color: #FDF7F7;
   }
 
   .md\:focus\:placeholder-white:focus::placeholder{
@@ -27556,6 +27810,14 @@ video {
     color: #37352F;
   }
 
+  .md\:text-myblack{
+    color: #2D2D2D;
+  }
+
+  .md\:text-mywhite{
+    color: #FDF7F7;
+  }
+
   .md\:text-white{
     color: #fff;
   }
@@ -27928,6 +28190,14 @@ video {
     color: #37352F;
   }
 
+  .md\:hover\:text-myblack:hover{
+    color: #2D2D2D;
+  }
+
+  .md\:hover\:text-mywhite:hover{
+    color: #FDF7F7;
+  }
+
   .md\:hover\:text-white:hover{
     color: #fff;
   }
@@ -28298,6 +28568,14 @@ video {
 
   .md\:focus\:text-black:focus{
     color: #37352F;
+  }
+
+  .md\:focus\:text-myblack:focus{
+    color: #2D2D2D;
+  }
+
+  .md\:focus\:text-mywhite:focus{
+    color: #FDF7F7;
   }
 
   .md\:focus\:text-white:focus{
@@ -28697,11 +28975,11 @@ video {
   }
 
   .md\:text-5xl{
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .md\:text-6xl{
-    font-size: 4rem;
+    font-size: 8rem;
   }
 
   .md\:italic{
@@ -31572,6 +31850,14 @@ video {
     background-color: #37352F;
   }
 
+  .lg\:bg-myblack{
+    background-color: #2D2D2D;
+  }
+
+  .lg\:bg-mywhite{
+    background-color: #FDF7F7;
+  }
+
   .lg\:bg-white{
     background-color: #fff;
   }
@@ -31944,6 +32230,14 @@ video {
     background-color: #37352F;
   }
 
+  .lg\:hover\:bg-myblack:hover{
+    background-color: #2D2D2D;
+  }
+
+  .lg\:hover\:bg-mywhite:hover{
+    background-color: #FDF7F7;
+  }
+
   .lg\:hover\:bg-white:hover{
     background-color: #fff;
   }
@@ -32314,6 +32608,14 @@ video {
 
   .lg\:focus\:bg-black:focus{
     background-color: #37352F;
+  }
+
+  .lg\:focus\:bg-myblack:focus{
+    background-color: #2D2D2D;
+  }
+
+  .lg\:focus\:bg-mywhite:focus{
+    background-color: #FDF7F7;
   }
 
   .lg\:focus\:bg-white:focus{
@@ -32768,6 +33070,14 @@ video {
     border-color: #37352F;
   }
 
+  .lg\:border-myblack{
+    border-color: #2D2D2D;
+  }
+
+  .lg\:border-mywhite{
+    border-color: #FDF7F7;
+  }
+
   .lg\:border-white{
     border-color: #fff;
   }
@@ -33140,6 +33450,14 @@ video {
     border-color: #37352F;
   }
 
+  .lg\:hover\:border-myblack:hover{
+    border-color: #2D2D2D;
+  }
+
+  .lg\:hover\:border-mywhite:hover{
+    border-color: #FDF7F7;
+  }
+
   .lg\:hover\:border-white:hover{
     border-color: #fff;
   }
@@ -33510,6 +33828,14 @@ video {
 
   .lg\:focus\:border-black:focus{
     border-color: #37352F;
+  }
+
+  .lg\:focus\:border-myblack:focus{
+    border-color: #2D2D2D;
+  }
+
+  .lg\:focus\:border-mywhite:focus{
+    border-color: #FDF7F7;
   }
 
   .lg\:focus\:border-white:focus{
@@ -34570,8 +34896,12 @@ video {
     clear: both;
   }
 
-  .lg\:font-montserrat{
-    font-family: Montserrat;
+  .lg\:font-gothic{
+    font-family: 'Gothic A1', sans-serif;
+  }
+
+  .lg\:font-volkhov{
+    font-family: 'Volkhov', serif;
   }
 
   .lg\:font-hairline{
@@ -36836,6 +37166,14 @@ video {
     color: #37352F;
   }
 
+  .lg\:placeholder-myblack::placeholder{
+    color: #2D2D2D;
+  }
+
+  .lg\:placeholder-mywhite::placeholder{
+    color: #FDF7F7;
+  }
+
   .lg\:placeholder-white::placeholder{
     color: #fff;
   }
@@ -37206,6 +37544,14 @@ video {
 
   .lg\:focus\:placeholder-black:focus::placeholder{
     color: #37352F;
+  }
+
+  .lg\:focus\:placeholder-myblack:focus::placeholder{
+    color: #2D2D2D;
+  }
+
+  .lg\:focus\:placeholder-mywhite:focus::placeholder{
+    color: #FDF7F7;
   }
 
   .lg\:focus\:placeholder-white:focus::placeholder{
@@ -37854,6 +38200,14 @@ video {
     color: #37352F;
   }
 
+  .lg\:text-myblack{
+    color: #2D2D2D;
+  }
+
+  .lg\:text-mywhite{
+    color: #FDF7F7;
+  }
+
   .lg\:text-white{
     color: #fff;
   }
@@ -38226,6 +38580,14 @@ video {
     color: #37352F;
   }
 
+  .lg\:hover\:text-myblack:hover{
+    color: #2D2D2D;
+  }
+
+  .lg\:hover\:text-mywhite:hover{
+    color: #FDF7F7;
+  }
+
   .lg\:hover\:text-white:hover{
     color: #fff;
   }
@@ -38596,6 +38958,14 @@ video {
 
   .lg\:focus\:text-black:focus{
     color: #37352F;
+  }
+
+  .lg\:focus\:text-myblack:focus{
+    color: #2D2D2D;
+  }
+
+  .lg\:focus\:text-mywhite:focus{
+    color: #FDF7F7;
   }
 
   .lg\:focus\:text-white:focus{
@@ -38995,11 +39365,11 @@ video {
   }
 
   .lg\:text-5xl{
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .lg\:text-6xl{
-    font-size: 4rem;
+    font-size: 8rem;
   }
 
   .lg\:italic{
@@ -41870,6 +42240,14 @@ video {
     background-color: #37352F;
   }
 
+  .xl\:bg-myblack{
+    background-color: #2D2D2D;
+  }
+
+  .xl\:bg-mywhite{
+    background-color: #FDF7F7;
+  }
+
   .xl\:bg-white{
     background-color: #fff;
   }
@@ -42242,6 +42620,14 @@ video {
     background-color: #37352F;
   }
 
+  .xl\:hover\:bg-myblack:hover{
+    background-color: #2D2D2D;
+  }
+
+  .xl\:hover\:bg-mywhite:hover{
+    background-color: #FDF7F7;
+  }
+
   .xl\:hover\:bg-white:hover{
     background-color: #fff;
   }
@@ -42612,6 +42998,14 @@ video {
 
   .xl\:focus\:bg-black:focus{
     background-color: #37352F;
+  }
+
+  .xl\:focus\:bg-myblack:focus{
+    background-color: #2D2D2D;
+  }
+
+  .xl\:focus\:bg-mywhite:focus{
+    background-color: #FDF7F7;
   }
 
   .xl\:focus\:bg-white:focus{
@@ -43066,6 +43460,14 @@ video {
     border-color: #37352F;
   }
 
+  .xl\:border-myblack{
+    border-color: #2D2D2D;
+  }
+
+  .xl\:border-mywhite{
+    border-color: #FDF7F7;
+  }
+
   .xl\:border-white{
     border-color: #fff;
   }
@@ -43438,6 +43840,14 @@ video {
     border-color: #37352F;
   }
 
+  .xl\:hover\:border-myblack:hover{
+    border-color: #2D2D2D;
+  }
+
+  .xl\:hover\:border-mywhite:hover{
+    border-color: #FDF7F7;
+  }
+
   .xl\:hover\:border-white:hover{
     border-color: #fff;
   }
@@ -43808,6 +44218,14 @@ video {
 
   .xl\:focus\:border-black:focus{
     border-color: #37352F;
+  }
+
+  .xl\:focus\:border-myblack:focus{
+    border-color: #2D2D2D;
+  }
+
+  .xl\:focus\:border-mywhite:focus{
+    border-color: #FDF7F7;
   }
 
   .xl\:focus\:border-white:focus{
@@ -44868,8 +45286,12 @@ video {
     clear: both;
   }
 
-  .xl\:font-montserrat{
-    font-family: Montserrat;
+  .xl\:font-gothic{
+    font-family: 'Gothic A1', sans-serif;
+  }
+
+  .xl\:font-volkhov{
+    font-family: 'Volkhov', serif;
   }
 
   .xl\:font-hairline{
@@ -47134,6 +47556,14 @@ video {
     color: #37352F;
   }
 
+  .xl\:placeholder-myblack::placeholder{
+    color: #2D2D2D;
+  }
+
+  .xl\:placeholder-mywhite::placeholder{
+    color: #FDF7F7;
+  }
+
   .xl\:placeholder-white::placeholder{
     color: #fff;
   }
@@ -47504,6 +47934,14 @@ video {
 
   .xl\:focus\:placeholder-black:focus::placeholder{
     color: #37352F;
+  }
+
+  .xl\:focus\:placeholder-myblack:focus::placeholder{
+    color: #2D2D2D;
+  }
+
+  .xl\:focus\:placeholder-mywhite:focus::placeholder{
+    color: #FDF7F7;
   }
 
   .xl\:focus\:placeholder-white:focus::placeholder{
@@ -48152,6 +48590,14 @@ video {
     color: #37352F;
   }
 
+  .xl\:text-myblack{
+    color: #2D2D2D;
+  }
+
+  .xl\:text-mywhite{
+    color: #FDF7F7;
+  }
+
   .xl\:text-white{
     color: #fff;
   }
@@ -48524,6 +48970,14 @@ video {
     color: #37352F;
   }
 
+  .xl\:hover\:text-myblack:hover{
+    color: #2D2D2D;
+  }
+
+  .xl\:hover\:text-mywhite:hover{
+    color: #FDF7F7;
+  }
+
   .xl\:hover\:text-white:hover{
     color: #fff;
   }
@@ -48894,6 +49348,14 @@ video {
 
   .xl\:focus\:text-black:focus{
     color: #37352F;
+  }
+
+  .xl\:focus\:text-myblack:focus{
+    color: #2D2D2D;
+  }
+
+  .xl\:focus\:text-mywhite:focus{
+    color: #FDF7F7;
   }
 
   .xl\:focus\:text-white:focus{
@@ -49293,11 +49755,11 @@ video {
   }
 
   .xl\:text-5xl{
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .xl\:text-6xl{
-    font-size: 4rem;
+    font-size: 8rem;
   }
 
   .xl\:italic{
