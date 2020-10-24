@@ -2,8 +2,8 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div className="h-screen bg-myblack">
-            About
+        <div className="h-screen bg-mywhite">
+            
         </div>
     )
 }
