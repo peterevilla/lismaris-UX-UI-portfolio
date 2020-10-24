@@ -14,11 +14,11 @@ const Home = () => {
   });
   return (
     <div className="h-screen">
-      <div className="px-16 py-24 lg:py-40  ">
+      <div className="px-16 py-24 lg:py-24 ">
         <Fade top>
           {" "}
           <Fade top when={!isScrolled}>
-            <h1 className=" font-volkhov lg:text-6xl text-4xl">Hi!, I'm Lis</h1>
+            <h1 className=" font-volkhov lg:text-6xl text-4xl">Hi, I'm Lis</h1>
           </Fade>
         </Fade>
 
@@ -31,10 +31,11 @@ const Home = () => {
         <Fade left>
           {" "}
           <Fade left when={!isScrolled}>
-           <div className="flex flex-col lg:flex-row"><img className="self-start" src={hand_icon} /><h3 className=" lg:text-2xl text-lg text-gray-700 text-justify">I am a UX/UI designer and Industrial Engineer based in Chicago, USA.<br/>I'm passionate about improving the lives of others through design and I'am constantly looking to learn new things everyday.</h3></div>
+           <div className="flex flex-col lg:flex-row"><img className="self-start" src={hand_icon} /><h3 className=" lg:text-2xl text-lg text-gray-700 text-justify lg:pr-12">I am a UX/UI designer and Industrial Engineer based in Chicago, USA.<br/>I'm passionate about improving the lives of others through design and I'am constantly looking to learn new things everyday.</h3></div>
           </Fade>{" "}
         </Fade>
       </div>
+
     </div>
   );
 };
