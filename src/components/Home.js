@@ -14,7 +14,7 @@ const Home = () => {
   });
   return (
     <div className="h-screen">
-      <div className="px-16 py-24 lg:py-24 ">
+      <div className="px-10 py-24 lg:py-24 ">
         <Fade top>
           {" "}
           <Fade top when={!isScrolled}>

@@ -40,10 +40,12 @@ function App() {
           <Route path="/about">
           <NavBar/>
             <About />
+            <Footer/>
           </Route>
           <Route path="/contact">
           <NavBar/>
             <Contact />
+            <Footer/>
           </Route>
         </Switch>    
     </div>

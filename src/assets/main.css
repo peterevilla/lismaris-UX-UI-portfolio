@@ -3937,7 +3937,7 @@ video {
 }
 
 .h-64{
-  height: 16rem;
+  height: 24rem;
 }
 
 .h-auto{
@@ -4101,7 +4101,7 @@ video {
 }
 
 .m-64{
-  margin: 16rem;
+  margin: 24rem;
 }
 
 .m-auto{
@@ -4177,7 +4177,7 @@ video {
 }
 
 .-m-64{
-  margin: -16rem;
+  margin: -24rem;
 }
 
 .-m-px{
@@ -4355,13 +4355,13 @@ video {
 }
 
 .my-64{
-  margin-top: 16rem;
-  margin-bottom: 16rem;
+  margin-top: 24rem;
+  margin-bottom: 24rem;
 }
 
 .mx-64{
-  margin-left: 16rem;
-  margin-right: 16rem;
+  margin-left: 24rem;
+  margin-right: 24rem;
 }
 
 .my-auto{
@@ -4545,13 +4545,13 @@ video {
 }
 
 .-my-64{
-  margin-top: -16rem;
-  margin-bottom: -16rem;
+  margin-top: -24rem;
+  margin-bottom: -24rem;
 }
 
 .-mx-64{
-  margin-left: -16rem;
-  margin-right: -16rem;
+  margin-left: -24rem;
+  margin-right: -24rem;
 }
 
 .-my-px{
@@ -4837,19 +4837,19 @@ video {
 }
 
 .mt-64{
-  margin-top: 16rem;
+  margin-top: 24rem;
 }
 
 .mr-64{
-  margin-right: 16rem;
+  margin-right: 24rem;
 }
 
 .mb-64{
-  margin-bottom: 16rem;
+  margin-bottom: 24rem;
 }
 
 .ml-64{
-  margin-left: 16rem;
+  margin-left: 24rem;
 }
 
 .mt-auto{
@@ -5141,19 +5141,19 @@ video {
 }
 
 .-mt-64{
-  margin-top: -16rem;
+  margin-top: -24rem;
 }
 
 .-mr-64{
-  margin-right: -16rem;
+  margin-right: -24rem;
 }
 
 .-mb-64{
-  margin-bottom: -16rem;
+  margin-bottom: -24rem;
 }
 
 .-ml-64{
-  margin-left: -16rem;
+  margin-left: -24rem;
 }
 
 .-mt-px{
@@ -5513,7 +5513,7 @@ video {
 }
 
 .p-64{
-  padding: 16rem;
+  padding: 24rem;
 }
 
 .p-px{
@@ -5691,13 +5691,13 @@ video {
 }
 
 .py-64{
-  padding-top: 16rem;
-  padding-bottom: 16rem;
+  padding-top: 24rem;
+  padding-bottom: 24rem;
 }
 
 .px-64{
-  padding-left: 16rem;
-  padding-right: 16rem;
+  padding-left: 24rem;
+  padding-right: 24rem;
 }
 
 .py-px{
@@ -5983,19 +5983,19 @@ video {
 }
 
 .pt-64{
-  padding-top: 16rem;
+  padding-top: 24rem;
 }
 
 .pr-64{
-  padding-right: 16rem;
+  padding-right: 24rem;
 }
 
 .pb-64{
-  padding-bottom: 16rem;
+  padding-bottom: 24rem;
 }
 
 .pl-64{
-  padding-left: 16rem;
+  padding-left: 24rem;
 }
 
 .pt-px{
@@ -8503,7 +8503,7 @@ video {
 }
 
 .w-64{
-  width: 16rem;
+  width: 24rem;
 }
 
 .w-auto{
@@ -8740,8 +8740,8 @@ video {
 }
 
 .gap-64{
-  grid-gap: 16rem;
-  gap: 16rem;
+  grid-gap: 24rem;
+  gap: 24rem;
 }
 
 .gap-px{
@@ -8835,8 +8835,8 @@ video {
 }
 
 .col-gap-64{
-  grid-column-gap: 16rem;
-  column-gap: 16rem;
+  grid-column-gap: 24rem;
+  column-gap: 24rem;
 }
 
 .col-gap-px{
@@ -8930,8 +8930,8 @@ video {
 }
 
 .row-gap-64{
-  grid-row-gap: 16rem;
-  row-gap: 16rem;
+  grid-row-gap: 24rem;
+  row-gap: 24rem;
 }
 
 .row-gap-px{
@@ -9885,7 +9885,7 @@ video {
 }
 
 .translate-x-64{
-  --transform-translate-x: 16rem;
+  --transform-translate-x: 24rem;
 }
 
 .translate-x-px{
@@ -9957,7 +9957,7 @@ video {
 }
 
 .-translate-x-64{
-  --transform-translate-x: -16rem;
+  --transform-translate-x: -24rem;
 }
 
 .-translate-x-px{
@@ -10049,7 +10049,7 @@ video {
 }
 
 .translate-y-64{
-  --transform-translate-y: 16rem;
+  --transform-translate-y: 24rem;
 }
 
 .translate-y-px{
@@ -10121,7 +10121,7 @@ video {
 }
 
 .-translate-y-64{
-  --transform-translate-y: -16rem;
+  --transform-translate-y: -24rem;
 }
 
 .-translate-y-px{
@@ -10213,7 +10213,7 @@ video {
 }
 
 .hover\:translate-x-64:hover{
-  --transform-translate-x: 16rem;
+  --transform-translate-x: 24rem;
 }
 
 .hover\:translate-x-px:hover{
@@ -10285,7 +10285,7 @@ video {
 }
 
 .hover\:-translate-x-64:hover{
-  --transform-translate-x: -16rem;
+  --transform-translate-x: -24rem;
 }
 
 .hover\:-translate-x-px:hover{
@@ -10377,7 +10377,7 @@ video {
 }
 
 .hover\:translate-y-64:hover{
-  --transform-translate-y: 16rem;
+  --transform-translate-y: 24rem;
 }
 
 .hover\:translate-y-px:hover{
@@ -10449,7 +10449,7 @@ video {
 }
 
 .hover\:-translate-y-64:hover{
-  --transform-translate-y: -16rem;
+  --transform-translate-y: -24rem;
 }
 
 .hover\:-translate-y-px:hover{
@@ -10541,7 +10541,7 @@ video {
 }
 
 .focus\:translate-x-64:focus{
-  --transform-translate-x: 16rem;
+  --transform-translate-x: 24rem;
 }
 
 .focus\:translate-x-px:focus{
@@ -10613,7 +10613,7 @@ video {
 }
 
 .focus\:-translate-x-64:focus{
-  --transform-translate-x: -16rem;
+  --transform-translate-x: -24rem;
 }
 
 .focus\:-translate-x-px:focus{
@@ -10705,7 +10705,7 @@ video {
 }
 
 .focus\:translate-y-64:focus{
-  --transform-translate-y: 16rem;
+  --transform-translate-y: 24rem;
 }
 
 .focus\:translate-y-px:focus{
@@ -10777,7 +10777,7 @@ video {
 }
 
 .focus\:-translate-y-64:focus{
-  --transform-translate-y: -16rem;
+  --transform-translate-y: -24rem;
 }
 
 .focus\:-translate-y-px:focus{
@@ -14372,7 +14372,7 @@ video {
   }
 
   .sm\:h-64{
-    height: 16rem;
+    height: 24rem;
   }
 
   .sm\:h-auto{
@@ -14536,7 +14536,7 @@ video {
   }
 
   .sm\:m-64{
-    margin: 16rem;
+    margin: 24rem;
   }
 
   .sm\:m-auto{
@@ -14612,7 +14612,7 @@ video {
   }
 
   .sm\:-m-64{
-    margin: -16rem;
+    margin: -24rem;
   }
 
   .sm\:-m-px{
@@ -14790,13 +14790,13 @@ video {
   }
 
   .sm\:my-64{
-    margin-top: 16rem;
-    margin-bottom: 16rem;
+    margin-top: 24rem;
+    margin-bottom: 24rem;
   }
 
   .sm\:mx-64{
-    margin-left: 16rem;
-    margin-right: 16rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
   }
 
   .sm\:my-auto{
@@ -14980,13 +14980,13 @@ video {
   }
 
   .sm\:-my-64{
-    margin-top: -16rem;
-    margin-bottom: -16rem;
+    margin-top: -24rem;
+    margin-bottom: -24rem;
   }
 
   .sm\:-mx-64{
-    margin-left: -16rem;
-    margin-right: -16rem;
+    margin-left: -24rem;
+    margin-right: -24rem;
   }
 
   .sm\:-my-px{
@@ -15272,19 +15272,19 @@ video {
   }
 
   .sm\:mt-64{
-    margin-top: 16rem;
+    margin-top: 24rem;
   }
 
   .sm\:mr-64{
-    margin-right: 16rem;
+    margin-right: 24rem;
   }
 
   .sm\:mb-64{
-    margin-bottom: 16rem;
+    margin-bottom: 24rem;
   }
 
   .sm\:ml-64{
-    margin-left: 16rem;
+    margin-left: 24rem;
   }
 
   .sm\:mt-auto{
@@ -15576,19 +15576,19 @@ video {
   }
 
   .sm\:-mt-64{
-    margin-top: -16rem;
+    margin-top: -24rem;
   }
 
   .sm\:-mr-64{
-    margin-right: -16rem;
+    margin-right: -24rem;
   }
 
   .sm\:-mb-64{
-    margin-bottom: -16rem;
+    margin-bottom: -24rem;
   }
 
   .sm\:-ml-64{
-    margin-left: -16rem;
+    margin-left: -24rem;
   }
 
   .sm\:-mt-px{
@@ -15948,7 +15948,7 @@ video {
   }
 
   .sm\:p-64{
-    padding: 16rem;
+    padding: 24rem;
   }
 
   .sm\:p-px{
@@ -16126,13 +16126,13 @@ video {
   }
 
   .sm\:py-64{
-    padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-top: 24rem;
+    padding-bottom: 24rem;
   }
 
   .sm\:px-64{
-    padding-left: 16rem;
-    padding-right: 16rem;
+    padding-left: 24rem;
+    padding-right: 24rem;
   }
 
   .sm\:py-px{
@@ -16418,19 +16418,19 @@ video {
   }
 
   .sm\:pt-64{
-    padding-top: 16rem;
+    padding-top: 24rem;
   }
 
   .sm\:pr-64{
-    padding-right: 16rem;
+    padding-right: 24rem;
   }
 
   .sm\:pb-64{
-    padding-bottom: 16rem;
+    padding-bottom: 24rem;
   }
 
   .sm\:pl-64{
-    padding-left: 16rem;
+    padding-left: 24rem;
   }
 
   .sm\:pt-px{
@@ -18938,7 +18938,7 @@ video {
   }
 
   .sm\:w-64{
-    width: 16rem;
+    width: 24rem;
   }
 
   .sm\:w-auto{
@@ -19175,8 +19175,8 @@ video {
   }
 
   .sm\:gap-64{
-    grid-gap: 16rem;
-    gap: 16rem;
+    grid-gap: 24rem;
+    gap: 24rem;
   }
 
   .sm\:gap-px{
@@ -19270,8 +19270,8 @@ video {
   }
 
   .sm\:col-gap-64{
-    grid-column-gap: 16rem;
-    column-gap: 16rem;
+    grid-column-gap: 24rem;
+    column-gap: 24rem;
   }
 
   .sm\:col-gap-px{
@@ -19365,8 +19365,8 @@ video {
   }
 
   .sm\:row-gap-64{
-    grid-row-gap: 16rem;
-    row-gap: 16rem;
+    grid-row-gap: 24rem;
+    row-gap: 24rem;
   }
 
   .sm\:row-gap-px{
@@ -20320,7 +20320,7 @@ video {
   }
 
   .sm\:translate-x-64{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .sm\:translate-x-px{
@@ -20392,7 +20392,7 @@ video {
   }
 
   .sm\:-translate-x-64{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .sm\:-translate-x-px{
@@ -20484,7 +20484,7 @@ video {
   }
 
   .sm\:translate-y-64{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .sm\:translate-y-px{
@@ -20556,7 +20556,7 @@ video {
   }
 
   .sm\:-translate-y-64{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .sm\:-translate-y-px{
@@ -20648,7 +20648,7 @@ video {
   }
 
   .sm\:hover\:translate-x-64:hover{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .sm\:hover\:translate-x-px:hover{
@@ -20720,7 +20720,7 @@ video {
   }
 
   .sm\:hover\:-translate-x-64:hover{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .sm\:hover\:-translate-x-px:hover{
@@ -20812,7 +20812,7 @@ video {
   }
 
   .sm\:hover\:translate-y-64:hover{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .sm\:hover\:translate-y-px:hover{
@@ -20884,7 +20884,7 @@ video {
   }
 
   .sm\:hover\:-translate-y-64:hover{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .sm\:hover\:-translate-y-px:hover{
@@ -20976,7 +20976,7 @@ video {
   }
 
   .sm\:focus\:translate-x-64:focus{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .sm\:focus\:translate-x-px:focus{
@@ -21048,7 +21048,7 @@ video {
   }
 
   .sm\:focus\:-translate-x-64:focus{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .sm\:focus\:-translate-x-px:focus{
@@ -21140,7 +21140,7 @@ video {
   }
 
   .sm\:focus\:translate-y-64:focus{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .sm\:focus\:translate-y-px:focus{
@@ -21212,7 +21212,7 @@ video {
   }
 
   .sm\:focus\:-translate-y-64:focus{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .sm\:focus\:-translate-y-px:focus{
@@ -24808,7 +24808,7 @@ video {
   }
 
   .md\:h-64{
-    height: 16rem;
+    height: 24rem;
   }
 
   .md\:h-auto{
@@ -24972,7 +24972,7 @@ video {
   }
 
   .md\:m-64{
-    margin: 16rem;
+    margin: 24rem;
   }
 
   .md\:m-auto{
@@ -25048,7 +25048,7 @@ video {
   }
 
   .md\:-m-64{
-    margin: -16rem;
+    margin: -24rem;
   }
 
   .md\:-m-px{
@@ -25226,13 +25226,13 @@ video {
   }
 
   .md\:my-64{
-    margin-top: 16rem;
-    margin-bottom: 16rem;
+    margin-top: 24rem;
+    margin-bottom: 24rem;
   }
 
   .md\:mx-64{
-    margin-left: 16rem;
-    margin-right: 16rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
   }
 
   .md\:my-auto{
@@ -25416,13 +25416,13 @@ video {
   }
 
   .md\:-my-64{
-    margin-top: -16rem;
-    margin-bottom: -16rem;
+    margin-top: -24rem;
+    margin-bottom: -24rem;
   }
 
   .md\:-mx-64{
-    margin-left: -16rem;
-    margin-right: -16rem;
+    margin-left: -24rem;
+    margin-right: -24rem;
   }
 
   .md\:-my-px{
@@ -25708,19 +25708,19 @@ video {
   }
 
   .md\:mt-64{
-    margin-top: 16rem;
+    margin-top: 24rem;
   }
 
   .md\:mr-64{
-    margin-right: 16rem;
+    margin-right: 24rem;
   }
 
   .md\:mb-64{
-    margin-bottom: 16rem;
+    margin-bottom: 24rem;
   }
 
   .md\:ml-64{
-    margin-left: 16rem;
+    margin-left: 24rem;
   }
 
   .md\:mt-auto{
@@ -26012,19 +26012,19 @@ video {
   }
 
   .md\:-mt-64{
-    margin-top: -16rem;
+    margin-top: -24rem;
   }
 
   .md\:-mr-64{
-    margin-right: -16rem;
+    margin-right: -24rem;
   }
 
   .md\:-mb-64{
-    margin-bottom: -16rem;
+    margin-bottom: -24rem;
   }
 
   .md\:-ml-64{
-    margin-left: -16rem;
+    margin-left: -24rem;
   }
 
   .md\:-mt-px{
@@ -26384,7 +26384,7 @@ video {
   }
 
   .md\:p-64{
-    padding: 16rem;
+    padding: 24rem;
   }
 
   .md\:p-px{
@@ -26562,13 +26562,13 @@ video {
   }
 
   .md\:py-64{
-    padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-top: 24rem;
+    padding-bottom: 24rem;
   }
 
   .md\:px-64{
-    padding-left: 16rem;
-    padding-right: 16rem;
+    padding-left: 24rem;
+    padding-right: 24rem;
   }
 
   .md\:py-px{
@@ -26854,19 +26854,19 @@ video {
   }
 
   .md\:pt-64{
-    padding-top: 16rem;
+    padding-top: 24rem;
   }
 
   .md\:pr-64{
-    padding-right: 16rem;
+    padding-right: 24rem;
   }
 
   .md\:pb-64{
-    padding-bottom: 16rem;
+    padding-bottom: 24rem;
   }
 
   .md\:pl-64{
-    padding-left: 16rem;
+    padding-left: 24rem;
   }
 
   .md\:pt-px{
@@ -29374,7 +29374,7 @@ video {
   }
 
   .md\:w-64{
-    width: 16rem;
+    width: 24rem;
   }
 
   .md\:w-auto{
@@ -29611,8 +29611,8 @@ video {
   }
 
   .md\:gap-64{
-    grid-gap: 16rem;
-    gap: 16rem;
+    grid-gap: 24rem;
+    gap: 24rem;
   }
 
   .md\:gap-px{
@@ -29706,8 +29706,8 @@ video {
   }
 
   .md\:col-gap-64{
-    grid-column-gap: 16rem;
-    column-gap: 16rem;
+    grid-column-gap: 24rem;
+    column-gap: 24rem;
   }
 
   .md\:col-gap-px{
@@ -29801,8 +29801,8 @@ video {
   }
 
   .md\:row-gap-64{
-    grid-row-gap: 16rem;
-    row-gap: 16rem;
+    grid-row-gap: 24rem;
+    row-gap: 24rem;
   }
 
   .md\:row-gap-px{
@@ -30756,7 +30756,7 @@ video {
   }
 
   .md\:translate-x-64{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .md\:translate-x-px{
@@ -30828,7 +30828,7 @@ video {
   }
 
   .md\:-translate-x-64{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .md\:-translate-x-px{
@@ -30920,7 +30920,7 @@ video {
   }
 
   .md\:translate-y-64{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .md\:translate-y-px{
@@ -30992,7 +30992,7 @@ video {
   }
 
   .md\:-translate-y-64{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .md\:-translate-y-px{
@@ -31084,7 +31084,7 @@ video {
   }
 
   .md\:hover\:translate-x-64:hover{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .md\:hover\:translate-x-px:hover{
@@ -31156,7 +31156,7 @@ video {
   }
 
   .md\:hover\:-translate-x-64:hover{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .md\:hover\:-translate-x-px:hover{
@@ -31248,7 +31248,7 @@ video {
   }
 
   .md\:hover\:translate-y-64:hover{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .md\:hover\:translate-y-px:hover{
@@ -31320,7 +31320,7 @@ video {
   }
 
   .md\:hover\:-translate-y-64:hover{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .md\:hover\:-translate-y-px:hover{
@@ -31412,7 +31412,7 @@ video {
   }
 
   .md\:focus\:translate-x-64:focus{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .md\:focus\:translate-x-px:focus{
@@ -31484,7 +31484,7 @@ video {
   }
 
   .md\:focus\:-translate-x-64:focus{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .md\:focus\:-translate-x-px:focus{
@@ -31576,7 +31576,7 @@ video {
   }
 
   .md\:focus\:translate-y-64:focus{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .md\:focus\:translate-y-px:focus{
@@ -31648,7 +31648,7 @@ video {
   }
 
   .md\:focus\:-translate-y-64:focus{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .md\:focus\:-translate-y-px:focus{
@@ -35244,7 +35244,7 @@ video {
   }
 
   .lg\:h-64{
-    height: 16rem;
+    height: 24rem;
   }
 
   .lg\:h-auto{
@@ -35408,7 +35408,7 @@ video {
   }
 
   .lg\:m-64{
-    margin: 16rem;
+    margin: 24rem;
   }
 
   .lg\:m-auto{
@@ -35484,7 +35484,7 @@ video {
   }
 
   .lg\:-m-64{
-    margin: -16rem;
+    margin: -24rem;
   }
 
   .lg\:-m-px{
@@ -35662,13 +35662,13 @@ video {
   }
 
   .lg\:my-64{
-    margin-top: 16rem;
-    margin-bottom: 16rem;
+    margin-top: 24rem;
+    margin-bottom: 24rem;
   }
 
   .lg\:mx-64{
-    margin-left: 16rem;
-    margin-right: 16rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
   }
 
   .lg\:my-auto{
@@ -35852,13 +35852,13 @@ video {
   }
 
   .lg\:-my-64{
-    margin-top: -16rem;
-    margin-bottom: -16rem;
+    margin-top: -24rem;
+    margin-bottom: -24rem;
   }
 
   .lg\:-mx-64{
-    margin-left: -16rem;
-    margin-right: -16rem;
+    margin-left: -24rem;
+    margin-right: -24rem;
   }
 
   .lg\:-my-px{
@@ -36144,19 +36144,19 @@ video {
   }
 
   .lg\:mt-64{
-    margin-top: 16rem;
+    margin-top: 24rem;
   }
 
   .lg\:mr-64{
-    margin-right: 16rem;
+    margin-right: 24rem;
   }
 
   .lg\:mb-64{
-    margin-bottom: 16rem;
+    margin-bottom: 24rem;
   }
 
   .lg\:ml-64{
-    margin-left: 16rem;
+    margin-left: 24rem;
   }
 
   .lg\:mt-auto{
@@ -36448,19 +36448,19 @@ video {
   }
 
   .lg\:-mt-64{
-    margin-top: -16rem;
+    margin-top: -24rem;
   }
 
   .lg\:-mr-64{
-    margin-right: -16rem;
+    margin-right: -24rem;
   }
 
   .lg\:-mb-64{
-    margin-bottom: -16rem;
+    margin-bottom: -24rem;
   }
 
   .lg\:-ml-64{
-    margin-left: -16rem;
+    margin-left: -24rem;
   }
 
   .lg\:-mt-px{
@@ -36820,7 +36820,7 @@ video {
   }
 
   .lg\:p-64{
-    padding: 16rem;
+    padding: 24rem;
   }
 
   .lg\:p-px{
@@ -36998,13 +36998,13 @@ video {
   }
 
   .lg\:py-64{
-    padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-top: 24rem;
+    padding-bottom: 24rem;
   }
 
   .lg\:px-64{
-    padding-left: 16rem;
-    padding-right: 16rem;
+    padding-left: 24rem;
+    padding-right: 24rem;
   }
 
   .lg\:py-px{
@@ -37290,19 +37290,19 @@ video {
   }
 
   .lg\:pt-64{
-    padding-top: 16rem;
+    padding-top: 24rem;
   }
 
   .lg\:pr-64{
-    padding-right: 16rem;
+    padding-right: 24rem;
   }
 
   .lg\:pb-64{
-    padding-bottom: 16rem;
+    padding-bottom: 24rem;
   }
 
   .lg\:pl-64{
-    padding-left: 16rem;
+    padding-left: 24rem;
   }
 
   .lg\:pt-px{
@@ -39810,7 +39810,7 @@ video {
   }
 
   .lg\:w-64{
-    width: 16rem;
+    width: 24rem;
   }
 
   .lg\:w-auto{
@@ -40047,8 +40047,8 @@ video {
   }
 
   .lg\:gap-64{
-    grid-gap: 16rem;
-    gap: 16rem;
+    grid-gap: 24rem;
+    gap: 24rem;
   }
 
   .lg\:gap-px{
@@ -40142,8 +40142,8 @@ video {
   }
 
   .lg\:col-gap-64{
-    grid-column-gap: 16rem;
-    column-gap: 16rem;
+    grid-column-gap: 24rem;
+    column-gap: 24rem;
   }
 
   .lg\:col-gap-px{
@@ -40237,8 +40237,8 @@ video {
   }
 
   .lg\:row-gap-64{
-    grid-row-gap: 16rem;
-    row-gap: 16rem;
+    grid-row-gap: 24rem;
+    row-gap: 24rem;
   }
 
   .lg\:row-gap-px{
@@ -41192,7 +41192,7 @@ video {
   }
 
   .lg\:translate-x-64{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .lg\:translate-x-px{
@@ -41264,7 +41264,7 @@ video {
   }
 
   .lg\:-translate-x-64{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .lg\:-translate-x-px{
@@ -41356,7 +41356,7 @@ video {
   }
 
   .lg\:translate-y-64{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .lg\:translate-y-px{
@@ -41428,7 +41428,7 @@ video {
   }
 
   .lg\:-translate-y-64{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .lg\:-translate-y-px{
@@ -41520,7 +41520,7 @@ video {
   }
 
   .lg\:hover\:translate-x-64:hover{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .lg\:hover\:translate-x-px:hover{
@@ -41592,7 +41592,7 @@ video {
   }
 
   .lg\:hover\:-translate-x-64:hover{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .lg\:hover\:-translate-x-px:hover{
@@ -41684,7 +41684,7 @@ video {
   }
 
   .lg\:hover\:translate-y-64:hover{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .lg\:hover\:translate-y-px:hover{
@@ -41756,7 +41756,7 @@ video {
   }
 
   .lg\:hover\:-translate-y-64:hover{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .lg\:hover\:-translate-y-px:hover{
@@ -41848,7 +41848,7 @@ video {
   }
 
   .lg\:focus\:translate-x-64:focus{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .lg\:focus\:translate-x-px:focus{
@@ -41920,7 +41920,7 @@ video {
   }
 
   .lg\:focus\:-translate-x-64:focus{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .lg\:focus\:-translate-x-px:focus{
@@ -42012,7 +42012,7 @@ video {
   }
 
   .lg\:focus\:translate-y-64:focus{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .lg\:focus\:translate-y-px:focus{
@@ -42084,7 +42084,7 @@ video {
   }
 
   .lg\:focus\:-translate-y-64:focus{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .lg\:focus\:-translate-y-px:focus{
@@ -45680,7 +45680,7 @@ video {
   }
 
   .xl\:h-64{
-    height: 16rem;
+    height: 24rem;
   }
 
   .xl\:h-auto{
@@ -45844,7 +45844,7 @@ video {
   }
 
   .xl\:m-64{
-    margin: 16rem;
+    margin: 24rem;
   }
 
   .xl\:m-auto{
@@ -45920,7 +45920,7 @@ video {
   }
 
   .xl\:-m-64{
-    margin: -16rem;
+    margin: -24rem;
   }
 
   .xl\:-m-px{
@@ -46098,13 +46098,13 @@ video {
   }
 
   .xl\:my-64{
-    margin-top: 16rem;
-    margin-bottom: 16rem;
+    margin-top: 24rem;
+    margin-bottom: 24rem;
   }
 
   .xl\:mx-64{
-    margin-left: 16rem;
-    margin-right: 16rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
   }
 
   .xl\:my-auto{
@@ -46288,13 +46288,13 @@ video {
   }
 
   .xl\:-my-64{
-    margin-top: -16rem;
-    margin-bottom: -16rem;
+    margin-top: -24rem;
+    margin-bottom: -24rem;
   }
 
   .xl\:-mx-64{
-    margin-left: -16rem;
-    margin-right: -16rem;
+    margin-left: -24rem;
+    margin-right: -24rem;
   }
 
   .xl\:-my-px{
@@ -46580,19 +46580,19 @@ video {
   }
 
   .xl\:mt-64{
-    margin-top: 16rem;
+    margin-top: 24rem;
   }
 
   .xl\:mr-64{
-    margin-right: 16rem;
+    margin-right: 24rem;
   }
 
   .xl\:mb-64{
-    margin-bottom: 16rem;
+    margin-bottom: 24rem;
   }
 
   .xl\:ml-64{
-    margin-left: 16rem;
+    margin-left: 24rem;
   }
 
   .xl\:mt-auto{
@@ -46884,19 +46884,19 @@ video {
   }
 
   .xl\:-mt-64{
-    margin-top: -16rem;
+    margin-top: -24rem;
   }
 
   .xl\:-mr-64{
-    margin-right: -16rem;
+    margin-right: -24rem;
   }
 
   .xl\:-mb-64{
-    margin-bottom: -16rem;
+    margin-bottom: -24rem;
   }
 
   .xl\:-ml-64{
-    margin-left: -16rem;
+    margin-left: -24rem;
   }
 
   .xl\:-mt-px{
@@ -47256,7 +47256,7 @@ video {
   }
 
   .xl\:p-64{
-    padding: 16rem;
+    padding: 24rem;
   }
 
   .xl\:p-px{
@@ -47434,13 +47434,13 @@ video {
   }
 
   .xl\:py-64{
-    padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-top: 24rem;
+    padding-bottom: 24rem;
   }
 
   .xl\:px-64{
-    padding-left: 16rem;
-    padding-right: 16rem;
+    padding-left: 24rem;
+    padding-right: 24rem;
   }
 
   .xl\:py-px{
@@ -47726,19 +47726,19 @@ video {
   }
 
   .xl\:pt-64{
-    padding-top: 16rem;
+    padding-top: 24rem;
   }
 
   .xl\:pr-64{
-    padding-right: 16rem;
+    padding-right: 24rem;
   }
 
   .xl\:pb-64{
-    padding-bottom: 16rem;
+    padding-bottom: 24rem;
   }
 
   .xl\:pl-64{
-    padding-left: 16rem;
+    padding-left: 24rem;
   }
 
   .xl\:pt-px{
@@ -50246,7 +50246,7 @@ video {
   }
 
   .xl\:w-64{
-    width: 16rem;
+    width: 24rem;
   }
 
   .xl\:w-auto{
@@ -50483,8 +50483,8 @@ video {
   }
 
   .xl\:gap-64{
-    grid-gap: 16rem;
-    gap: 16rem;
+    grid-gap: 24rem;
+    gap: 24rem;
   }
 
   .xl\:gap-px{
@@ -50578,8 +50578,8 @@ video {
   }
 
   .xl\:col-gap-64{
-    grid-column-gap: 16rem;
-    column-gap: 16rem;
+    grid-column-gap: 24rem;
+    column-gap: 24rem;
   }
 
   .xl\:col-gap-px{
@@ -50673,8 +50673,8 @@ video {
   }
 
   .xl\:row-gap-64{
-    grid-row-gap: 16rem;
-    row-gap: 16rem;
+    grid-row-gap: 24rem;
+    row-gap: 24rem;
   }
 
   .xl\:row-gap-px{
@@ -51628,7 +51628,7 @@ video {
   }
 
   .xl\:translate-x-64{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .xl\:translate-x-px{
@@ -51700,7 +51700,7 @@ video {
   }
 
   .xl\:-translate-x-64{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .xl\:-translate-x-px{
@@ -51792,7 +51792,7 @@ video {
   }
 
   .xl\:translate-y-64{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .xl\:translate-y-px{
@@ -51864,7 +51864,7 @@ video {
   }
 
   .xl\:-translate-y-64{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .xl\:-translate-y-px{
@@ -51956,7 +51956,7 @@ video {
   }
 
   .xl\:hover\:translate-x-64:hover{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .xl\:hover\:translate-x-px:hover{
@@ -52028,7 +52028,7 @@ video {
   }
 
   .xl\:hover\:-translate-x-64:hover{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .xl\:hover\:-translate-x-px:hover{
@@ -52120,7 +52120,7 @@ video {
   }
 
   .xl\:hover\:translate-y-64:hover{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .xl\:hover\:translate-y-px:hover{
@@ -52192,7 +52192,7 @@ video {
   }
 
   .xl\:hover\:-translate-y-64:hover{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .xl\:hover\:-translate-y-px:hover{
@@ -52284,7 +52284,7 @@ video {
   }
 
   .xl\:focus\:translate-x-64:focus{
-    --transform-translate-x: 16rem;
+    --transform-translate-x: 24rem;
   }
 
   .xl\:focus\:translate-x-px:focus{
@@ -52356,7 +52356,7 @@ video {
   }
 
   .xl\:focus\:-translate-x-64:focus{
-    --transform-translate-x: -16rem;
+    --transform-translate-x: -24rem;
   }
 
   .xl\:focus\:-translate-x-px:focus{
@@ -52448,7 +52448,7 @@ video {
   }
 
   .xl\:focus\:translate-y-64:focus{
-    --transform-translate-y: 16rem;
+    --transform-translate-y: 24rem;
   }
 
   .xl\:focus\:translate-y-px:focus{
@@ -52520,7 +52520,7 @@ video {
   }
 
   .xl\:focus\:-translate-y-64:focus{
-    --transform-translate-y: -16rem;
+    --transform-translate-y: -24rem;
   }
 
   .xl\:focus\:-translate-y-px:focus{
