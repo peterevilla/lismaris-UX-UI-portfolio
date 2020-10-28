@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch } from "react-router-dom";
+import { Link, Route, Switch } from "react-router-dom";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
@@ -8,6 +8,7 @@ import NavBar from "./components/NavBar";
 import Project1 from "./components/projects/Project1";
 import Project2 from "./components/projects/Project2";
 import Project3 from "./components/projects/Project3";
+import CityPups from "./components/projects/CityPups";
 
 
 
@@ -30,7 +31,7 @@ function App() {
         <Project1/>
       </section>
       <section className="h-screen" id="project2">
-        <Project2/>
+        <Link to="citypups" ><Project2/></Link>
       </section>   
       <section className="h-screen" id="project3">
         <Project3/>
@@ -46,6 +47,10 @@ function App() {
           <NavBar/>
             <Contact />
             <Footer/>
+          </Route>
+          <Route path="/citypups">
+          <NavBar/>
+            <CityPups/>
           </Route>
         </Switch>    
     </div>
