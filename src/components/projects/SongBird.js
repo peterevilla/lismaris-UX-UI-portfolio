@@ -1,5 +1,5 @@
 import React from 'react'
-import songbird from "../../images/songbird.svg"
+import songbird from "../../images/songbird/songbird.png"
 const SongBird = () => {
     window.scrollTo(0, 0);
     return (
