@@ -9,6 +9,7 @@ import Project1 from "./components/projects/Project1";
 import Project2 from "./components/projects/Project2";
 import Project3 from "./components/projects/Project3";
 import CityPups from "./components/projects/CityPups";
+import SongBird from "./components/projects/SongBird";
 
 
 
@@ -28,7 +29,7 @@ function App() {
       </section>
      
       <section className="h-screen" id="project1">
-        <Project1/>
+      <Link to="songbird"><Project1/></Link>
       </section>
       <section className="h-screen" id="project2">
         <Link to="citypups" ><Project2/></Link>
@@ -51,6 +52,10 @@ function App() {
           <Route path="/citypups">
           <NavBar/>
             <CityPups/>
+          </Route>
+          <Route path="/songbird">
+          <NavBar/>
+            <SongBird/>
           </Route>
         </Switch>    
     </div>

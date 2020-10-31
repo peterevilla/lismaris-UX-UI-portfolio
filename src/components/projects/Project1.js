@@ -20,7 +20,7 @@ const Project1 = () => {
       <div className="mt-20">
       <Fade right>
       <Fade right when={isScrolled}>
-      <img src={iphone} alt="alt"/>
+      <img className="w-auto h-100" src={iphone} alt="alt"/>
       </Fade>
       </Fade>
       </div>
